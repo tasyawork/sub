@@ -23,6 +23,11 @@ export default function HomePage() {
             <strong>Субтитры в мобилке</strong>
             <span>Автопревью в ленте ИВИ, постер 2 сек и окрашивание по буквам/слову</span>
           </Link>
+          <Link className="home-card" to="/rules">
+            <span className="home-card-num">03</span>
+            <strong>Правила анимаций</strong>
+            <span>Константы, сигналы голоса, группы motion, синхронизация и жёсткие запреты</span>
+          </Link>
         </div>
       </main>
     </div>
