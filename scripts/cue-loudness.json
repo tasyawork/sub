@@ -1,0 +1,767 @@
+{
+  "calm": {
+    "scene": "calm",
+    "speakerMedians": {
+      "man": 0.05621,
+      "woman": 0.06431
+    },
+    "cues": [
+      {
+        "cueIndex": 0,
+        "speaker": "man",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.06,
+        "accents": [
+          {
+            "text": "выходите",
+            "accent": 1.092
+          }
+        ],
+        "words": [
+          {
+            "text": "Осуждённая,",
+            "start": 1.04,
+            "end": 1.86,
+            "rms": 0.0597,
+            "deltaDb": 0.52,
+            "suggestScale": 1.038,
+            "suggestStretch": 1.06
+          },
+          {
+            "text": "выходите",
+            "start": 1.98,
+            "end": 2.26,
+            "rms": 0.07112,
+            "deltaDb": 2.04,
+            "suggestScale": 1.092,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "с",
+            "start": 2.26,
+            "end": 2.34,
+            "rms": 0.03653,
+            "deltaDb": -3.74,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "вещами",
+            "start": 2.34,
+            "end": 2.66,
+            "rms": 0.04851,
+            "deltaDb": -1.28,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "к двери.",
+            "start": 2.78,
+            "end": 2.92,
+            "rms": 0.04714,
+            "deltaDb": -1.53,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          }
+        ]
+      },
+      {
+        "cueIndex": 1,
+        "speaker": "woman",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.0,
+        "accents": [],
+        "words": [
+          {
+            "text": "Где",
+            "start": 3.72,
+            "end": 3.96,
+            "rms": 0.06141,
+            "deltaDb": -0.4,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "адвокат?",
+            "start": 3.96,
+            "end": 4.46,
+            "rms": 0.06101,
+            "deltaDb": -0.46,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          }
+        ]
+      },
+      {
+        "cueIndex": 2,
+        "speaker": "man",
+        "suggestScale": 1.067,
+        "suggestStretch": 1.0,
+        "accents": [],
+        "words": [
+          {
+            "text": "Сначала",
+            "start": 6.62,
+            "end": 7.04,
+            "rms": 0.05542,
+            "deltaDb": -0.12,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "надо",
+            "start": 7.04,
+            "end": 7.28,
+            "rms": 0.06875,
+            "deltaDb": 1.75,
+            "suggestScale": 1.081,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "надеть",
+            "start": 7.28,
+            "end": 7.46,
+            "rms": 0.06561,
+            "deltaDb": 1.34,
+            "suggestScale": 1.067,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "наручники.",
+            "start": 7.46,
+            "end": 7.92,
+            "rms": 0.04615,
+            "deltaDb": -1.71,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          }
+        ]
+      },
+      {
+        "cueIndex": 3,
+        "speaker": "woman",
+        "suggestScale": 1.055,
+        "suggestStretch": 1.0,
+        "accents": [],
+        "words": [
+          {
+            "text": "Почему?",
+            "start": 9.98,
+            "end": 10.34,
+            "rms": 0.07216,
+            "deltaDb": 1.0,
+            "suggestScale": 1.055,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "Не",
+            "start": 10.58,
+            "end": 10.62,
+            "rms": 0.0723,
+            "deltaDb": 1.02,
+            "suggestScale": 1.056,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "имеете",
+            "start": 10.62,
+            "end": 10.88,
+            "rms": 0.06431,
+            "deltaDb": 0.0,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "права.",
+            "start": 10.88,
+            "end": 11.3,
+            "rms": 0.05968,
+            "deltaDb": -0.65,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          }
+        ]
+      },
+      {
+        "cueIndex": 4,
+        "speaker": "man",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.021,
+        "accents": [
+          {
+            "text": "хотите",
+            "accent": 1.073
+          }
+        ],
+        "words": [
+          {
+            "text": "Вы",
+            "start": 11.58,
+            "end": 11.72,
+            "rms": 0.04949,
+            "deltaDb": -1.11,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "хотите",
+            "start": 11.72,
+            "end": 11.96,
+            "rms": 0.067,
+            "deltaDb": 1.53,
+            "suggestScale": 1.073,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "встретиться",
+            "start": 11.96,
+            "end": 12.34,
+            "rms": 0.05621,
+            "deltaDb": 0.0,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "с адвокатом?",
+            "start": 12.34,
+            "end": 12.92,
+            "rms": 0.04742,
+            "deltaDb": -1.48,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.021
+          }
+        ]
+      },
+      {
+        "cueIndex": 5,
+        "speaker": "man",
+        "suggestScale": 1.083,
+        "suggestStretch": 1.022,
+        "accents": [],
+        "words": [
+          {
+            "text": "Надо",
+            "start": 13.18,
+            "end": 13.34,
+            "rms": 0.06913,
+            "deltaDb": 1.8,
+            "suggestScale": 1.083,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "надеть",
+            "start": 13.34,
+            "end": 13.66,
+            "rms": 0.06999,
+            "deltaDb": 1.9,
+            "suggestScale": 1.087,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "наручники.",
+            "start": 13.66,
+            "end": 14.16,
+            "rms": 0.04242,
+            "deltaDb": -2.44,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.022
+          },
+          {
+            "text": "Вы",
+            "start": 14.72,
+            "end": 14.84,
+            "rms": 0.06301,
+            "deltaDb": 0.99,
+            "suggestScale": 1.055,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "же",
+            "start": 14.84,
+            "end": 14.94,
+            "rms": 0.07247,
+            "deltaDb": 2.21,
+            "suggestScale": 1.097,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "буйная.",
+            "start": 14.94,
+            "end": 15.26,
+            "rms": 0.06373,
+            "deltaDb": 1.09,
+            "suggestScale": 1.058,
+            "suggestStretch": 1.0
+          }
+        ]
+      },
+      {
+        "cueIndex": 6,
+        "speaker": "man",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.053,
+        "accents": [],
+        "words": [
+          {
+            "text": "Вас",
+            "start": 15.74,
+            "end": 15.92,
+            "rms": 0.04545,
+            "deltaDb": -1.85,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "люди",
+            "start": 15.92,
+            "end": 16.1,
+            "rms": 0.05395,
+            "deltaDb": -0.36,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "боятся.",
+            "start": 16.1,
+            "end": 16.52,
+            "rms": 0.04799,
+            "deltaDb": -1.37,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.053
+          }
+        ]
+      }
+    ]
+  },
+  "emotion": {
+    "scene": "emotion",
+    "speakerMedians": {
+      "other": 0.01539,
+      "other2": 0.0154,
+      "woman": 0.02065,
+      "guard": 0.02012
+    },
+    "cues": [
+      {
+        "cueIndex": 0,
+        "speaker": "other",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.053,
+        "accents": [],
+        "words": [
+          {
+            "text": "Зовут",
+            "start": 0.0,
+            "end": 0.56,
+            "rms": 0.01147,
+            "deltaDb": -2.55,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "за",
+            "start": 0.56,
+            "end": 0.7,
+            "rms": 0.01425,
+            "deltaDb": -0.67,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "то,",
+            "start": 0.7,
+            "end": 0.88,
+            "rms": 0.01345,
+            "deltaDb": -1.17,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "что",
+            "start": 0.92,
+            "end": 1.1,
+            "rms": 0.01462,
+            "deltaDb": -0.45,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "нацистов",
+            "start": 1.1,
+            "end": 1.8,
+            "rms": 0.0138,
+            "deltaDb": -0.95,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "уважают.",
+            "start": 1.8,
+            "end": 3.1,
+            "rms": 0.01388,
+            "deltaDb": -0.89,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.053
+          }
+        ]
+      },
+      {
+        "cueIndex": 2,
+        "speaker": "other2",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.0,
+        "accents": [],
+        "words": [
+          {
+            "text": "Ты",
+            "start": 9.55,
+            "end": 9.78,
+            "rms": 0.0154,
+            "deltaDb": 0.0,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "немка?",
+            "start": 9.78,
+            "end": 10.7,
+            "rms": 0.01366,
+            "deltaDb": -1.04,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          }
+        ]
+      },
+      {
+        "cueIndex": 3,
+        "speaker": "other",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.03,
+        "accents": [
+          {
+            "text": "А",
+            "accent": 1.072
+          }
+        ],
+        "words": [
+          {
+            "text": "А",
+            "start": 13.6,
+            "end": 14.02,
+            "rms": 0.01828,
+            "deltaDb": 1.5,
+            "suggestScale": 1.072,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "тебя",
+            "start": 14.02,
+            "end": 14.42,
+            "rms": 0.01539,
+            "deltaDb": 0.0,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "кто",
+            "start": 14.42,
+            "end": 14.56,
+            "rms": 0.01062,
+            "deltaDb": -3.22,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "спрашивал?",
+            "start": 14.56,
+            "end": 15.3,
+            "rms": 0.01169,
+            "deltaDb": -2.39,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.03
+          }
+        ]
+      },
+      {
+        "cueIndex": 4,
+        "speaker": "other",
+        "suggestScale": 1.093,
+        "suggestStretch": 1.06,
+        "accents": [
+          {
+            "text": "чего",
+            "accent": 1.154
+          },
+          {
+            "text": "ты",
+            "accent": 1.125
+          }
+        ],
+        "words": [
+          {
+            "text": "Ну",
+            "start": 18.05,
+            "end": 18.32,
+            "rms": 0.01955,
+            "deltaDb": 2.08,
+            "suggestScale": 1.093,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "чего",
+            "start": 18.32,
+            "end": 18.4,
+            "rms": 0.02394,
+            "deltaDb": 3.84,
+            "suggestScale": 1.154,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "ты",
+            "start": 18.4,
+            "end": 18.5,
+            "rms": 0.02174,
+            "deltaDb": 3.0,
+            "suggestScale": 1.125,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "уставилась,",
+            "start": 18.5,
+            "end": 19.02,
+            "rms": 0.01856,
+            "deltaDb": 1.63,
+            "suggestScale": 1.077,
+            "suggestStretch": 1.037
+          },
+          {
+            "text": "тварь?!",
+            "start": 19.02,
+            "end": 20.3,
+            "rms": 0.01594,
+            "deltaDb": 0.31,
+            "suggestScale": 1.031,
+            "suggestStretch": 1.06
+          }
+        ]
+      },
+      {
+        "cueIndex": 9,
+        "speaker": "other",
+        "suggestScale": 1.092,
+        "suggestStretch": 1.0,
+        "accents": [
+          {
+            "text": "Дай",
+            "accent": 1.126
+          }
+        ],
+        "words": [
+          {
+            "text": "Держи",
+            "start": 30.0,
+            "end": 30.58,
+            "rms": 0.01949,
+            "deltaDb": 2.05,
+            "suggestScale": 1.092,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "её!",
+            "start": 30.58,
+            "end": 31.32,
+            "rms": 0.01429,
+            "deltaDb": -0.64,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "Дай",
+            "start": 31.46,
+            "end": 31.72,
+            "rms": 0.0218,
+            "deltaDb": 3.02,
+            "suggestScale": 1.126,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "мне!",
+            "start": 31.72,
+            "end": 32.3,
+            "rms": 0.01424,
+            "deltaDb": -0.68,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          }
+        ]
+      },
+      {
+        "cueIndex": 10,
+        "speaker": "other",
+        "suggestScale": 1.083,
+        "suggestStretch": 1.06,
+        "accents": [],
+        "words": [
+          {
+            "text": "И",
+            "start": 32.8,
+            "end": 33.12,
+            "rms": 0.02012,
+            "deltaDb": 2.33,
+            "suggestScale": 1.1,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "чего",
+            "start": 33.12,
+            "end": 33.3,
+            "rms": 0.02323,
+            "deltaDb": 3.58,
+            "suggestScale": 1.1,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "ты",
+            "start": 33.3,
+            "end": 33.58,
+            "rms": 0.01354,
+            "deltaDb": -1.11,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "сделаешь,",
+            "start": 33.58,
+            "end": 34.6,
+            "rms": 0.01892,
+            "deltaDb": 1.79,
+            "suggestScale": 1.083,
+            "suggestStretch": 1.06
+          },
+          {
+            "text": "а?",
+            "start": 34.6,
+            "end": 35.4,
+            "rms": 0.01818,
+            "deltaDb": 1.45,
+            "suggestScale": 1.071,
+            "suggestStretch": 1.06
+          }
+        ]
+      },
+      {
+        "cueIndex": 12,
+        "speaker": "woman",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.0,
+        "accents": [],
+        "words": [
+          {
+            "text": "Сдохни!",
+            "start": 38.35,
+            "end": 39.16,
+            "rms": 0.02065,
+            "deltaDb": 0.0,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "Сдохни!",
+            "start": 39.5,
+            "end": 40.3,
+            "rms": 0.01249,
+            "deltaDb": -4.37,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          }
+        ]
+      },
+      {
+        "cueIndex": 14,
+        "speaker": "other",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.0,
+        "accents": [
+          {
+            "text": "Давай!",
+            "accent": 1.053
+          }
+        ],
+        "words": [
+          {
+            "text": "Ну",
+            "start": 41.02,
+            "end": 41.18,
+            "rms": 0.0152,
+            "deltaDb": -0.11,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "давай!",
+            "start": 41.18,
+            "end": 42.02,
+            "rms": 0.0145,
+            "deltaDb": -0.52,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "Давай!",
+            "start": 42.02,
+            "end": 42.65,
+            "rms": 0.01717,
+            "deltaDb": 0.95,
+            "suggestScale": 1.053,
+            "suggestStretch": 1.0
+          }
+        ]
+      },
+      {
+        "cueIndex": 16,
+        "speaker": "guard",
+        "suggestScale": 1.02,
+        "suggestStretch": 1.0,
+        "accents": [],
+        "words": [
+          {
+            "text": "Вы",
+            "start": 43.78,
+            "end": 44.3,
+            "rms": 0.01869,
+            "deltaDb": -0.64,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "что",
+            "start": 44.3,
+            "end": 44.58,
+            "rms": 0.0204,
+            "deltaDb": 0.12,
+            "suggestScale": 1.024,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "творите?!",
+            "start": 44.58,
+            "end": 45.3,
+            "rms": 0.02012,
+            "deltaDb": 0.0,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          },
+          {
+            "text": "Хватит!",
+            "start": 45.36,
+            "end": 46.1,
+            "rms": 0.01048,
+            "deltaDb": -5.66,
+            "suggestScale": 1.02,
+            "suggestStretch": 1.0
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+@font-face {
+  font-family: 'IVI Sans Base';
+  src: url('/fonts/IVI_Sans_Base_Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'IVI Sans Base';
+  src: url('/fonts/IVI_Sans_Base_Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'IVI Sans Base';
+  src: url('/fonts/IVI_Sans_Base_Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.home {
+  min-height: 100vh;
+  position: relative;
+  color: #fff;
+  font-family: 'IVI Sans Base', Arial, sans-serif;
+  overflow: hidden;
+  background: #07070a;
+}
+
+.home-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 80% 60% at 20% 20%, rgba(0, 165, 255, 0.18), transparent 55%),
+    radial-gradient(ellipse 70% 50% at 90% 80%, rgba(243, 7, 69, 0.16), transparent 50%),
+    linear-gradient(160deg, #0a0a10 0%, #121218 45%, #07070a 100%);
+}
+
+.home-main {
+  position: relative;
+  z-index: 1;
+  max-width: 920px;
+  margin: 0 auto;
+  padding: min(18vh, 140px) 24px 64px;
+}
+
+.home-brand {
+  margin: 0 0 18px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #00a5ff;
+}
+
+.home h1 {
+  margin: 0 0 16px;
+  font-size: clamp(36px, 7vw, 64px);
+  line-height: 1.05;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.home-lead {
+  margin: 0 0 40px;
+  max-width: 520px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.68);
+}
+
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.home-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 22px 20px;
+  border-radius: 18px;
+  text-decoration: none;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: transform 0.25s ease, background 0.25s ease, border-color 0.25s ease;
+}
+
+.home-card:hover {
+  transform: translateY(-3px);
+  background: rgba(255, 255, 255, 0.07);
+  border-color: rgba(0, 165, 255, 0.45);
+}
+
+.home-card-num {
+  font-size: 12px;
+  font-weight: 700;
+  color: #00a5ff;
+  letter-spacing: 0.08em;
+}
+
+.home-card strong {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.home-card span:last-child {
+  font-size: 14px;
+  line-height: 1.45;
+  color: rgba(255, 255, 255, 0.62);
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="393" height="54" viewBox="0 0 393 54" fill="none">
+  <!-- Canonical iOS marketing status bar: 9:41, full cellular, WiFi, full battery, Dynamic Island -->
+  <text
+    x="28"
+    y="31"
+    fill="#FFFFFF"
+    font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif"
+    font-size="17"
+    font-weight="600"
+    letter-spacing="0.2"
+  >9:41</text>
+
+  <!-- Dynamic Island -->
+  <rect x="136.5" y="11" width="120" height="34" rx="17" fill="#0A0A0A"/>
+
+  <!-- Cellular signal (4 bars) -->
+  <g fill="#FFFFFF" transform="translate(292 20)">
+    <rect x="0" y="8" width="3" height="4" rx="0.6"/>
+    <rect x="4.5" y="5.5" width="3" height="6.5" rx="0.6"/>
+    <rect x="9" y="3" width="3" height="9" rx="0.6"/>
+    <rect x="13.5" y="0" width="3" height="12" rx="0.6"/>
+  </g>
+
+  <!-- WiFi -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" transform="translate(315.5 19.5)">
+    <path d="M1.2 7.8c3.6-3.5 9.4-3.5 13 0"/>
+    <path d="M3.6 10.2c2.3-2.2 6.1-2.2 8.4 0"/>
+    <path d="M6.2 12.5c1-1 2.6-1 3.6 0"/>
+    <circle cx="8" cy="14.2" r="1.1" fill="#FFFFFF" stroke="none"/>
+  </g>
+
+  <!-- Battery -->
+  <g transform="translate(338 21)">
+    <rect x="0.5" y="0.5" width="22" height="11" rx="2.2" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="1" fill="none"/>
+    <rect x="2.2" y="2.2" width="18.6" height="7.6" rx="1.2" fill="#FFFFFF"/>
+    <path d="M24 3.6v4.8c1.1-.5 1.1-4.3 0-4.8Z" fill="#FFFFFF" fill-opacity="0.4"/>
+  </g>
+</svg>
